@@ -11,10 +11,11 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm Made Adi (madɛ adi).</p>
         <p>
-          I'm husband, father, and the founder of{" "}
+          I'm a husband, father, and the founder of{" "}
           <a href="taksuteknologi.com" target="_blank">
-            Taksu Teknologi.
+            Taksu Teknologi
           </a>
+          .
         </p>
       </section>
     </Layout>
