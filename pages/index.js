@@ -12,7 +12,7 @@ export default function Home() {
         <p>Hello, I'm Made Adi (madɛ adi).</p>
         <p>
           I'm a husband, father, and the founder of{" "}
-          <a href="taksuteknologi.com" target="_blank">
+          <a href="https://taksuteknologi.com" target="_blank">
             Taksu Teknologi
           </a>
           .
